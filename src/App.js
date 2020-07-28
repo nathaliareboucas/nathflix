@@ -1,16 +1,9 @@
 import React from 'react';
 
+import Menu from './components/Menu';
+
 function App() {
-	return (
-		<div>
-			<h1>
-				Iniciando o projeto NathFlix -
-				<a href="https://www.alura.com.br/imersao-react" target="_blank" rel="noopener noreferrer">
-					Imersão React
-				</a>
-			</h1>
-		</div>
-	);
+	return <Menu />;
 }
 
 export default App;
