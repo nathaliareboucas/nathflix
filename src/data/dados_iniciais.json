@@ -1,0 +1,185 @@
+{
+	"categorias": [
+		{
+			"titulo": "ESTÁ PERDIDO? COMECE POR AQUI!",
+			"link": "https://www.youtube.com/playlist?list=PL5vSn8ej1b0su4DF2B8WEIRORjE1LS2fK",
+			"cor": "#f4a63d",
+			"link_extra": {
+				"text": "",
+				"url": ""
+			},
+			"videos": [
+				{
+					"titulo": "3 SEGREDOS DA MENTE UNIVERSITÁRIA MILIONÁRIA! O 1º segredo é o mais difícil!",
+					"url": "https://www.youtube.com/watch?v=MziFPb2SbUc&list=PL5vSn8ej1b0su4DF2B8WEIRORjE1LS2fK&index=2&t=0s"
+				},
+				{
+					"titulo": "ONDE DEIXAR A RESERVA DE EMERGÊNCIA PÓS-COVID? Adeus Tesouro SELIC!",
+					"url": "https://www.youtube.com/watch?v=dokj_p3lU_0&list=PL5vSn8ej1b0su4DF2B8WEIRORjE1LS2fK&index=2"
+				},
+				{
+					"titulo": "TESOURO DIRETO: VOCÊ PODE PERDER DINHEIRO SE NÃO ENTENDER ISSO!",
+					"url": "https://www.youtube.com/watch?v=Fcu1v1vxQkg&list=PL5vSn8ej1b0su4DF2B8WEIRORjE1LS2fK&index=3"
+				},
+				{
+					"titulo": "10 SERVIÇOS QUE VOCÊ NÃO PRECISA PAGAR NA QUARENTENA!",
+					"url": "https://www.youtube.com/watch?v=jgTcZf1lFFo&list=PL5vSn8ej1b0su4DF2B8WEIRORjE1LS2fK&index=4"
+				},
+				{
+					"titulo": "COMO COMEÇAR UM NEGÓCIO DO ZERO E SEM DINHEIRO? #QuarenteneComAMePoupe",
+					"url": "https://www.youtube.com/watch?v=8tsmVSS9_30&list=PL5vSn8ej1b0su4DF2B8WEIRORjE1LS2fK&index=5"
+				},
+				{
+					"titulo": "3 ERROS QUE TE FAZEM TER DÍVIDAS! O PRIMEIRO você faz sem perceber!",
+					"url": "https://www.youtube.com/watch?v=OBNYXbCLWPA&list=PL5vSn8ej1b0su4DF2B8WEIRORjE1LS2fK&index=6"
+				},
+				{
+					"titulo": "6 PERGUNTAS QUE TODA MULHER RICA FAZ! Você tem coragem de perguntar isso? Especial DIA DA MULHER",
+					"url": "https://www.youtube.com/watch?v=58PoU-ssRZ4&list=PL5vSn8ej1b0su4DF2B8WEIRORjE1LS2fK&index=7"
+				},
+				{
+					"titulo": "NOME SUJO? COMO acabar com DÍVIDA DE MIL pagando CEM REAIS!",
+					"url": "https://www.youtube.com/watch?v=39VaaYYMBWA&list=PL5vSn8ej1b0su4DF2B8WEIRORjE1LS2fK&index=8"
+				}
+			]
+		},
+		{
+			"titulo": "Controle Financeiro já!",
+			"cor": "#392875",
+			"link_extra": {
+				"text": "",
+				"url": ""
+			},
+			"videos": [
+				{
+					"titulo": "INVESTIMENTOS PARA AUTÔNOMOS: 5 PASSOS PRÁTICOS PRA ORGANIZAR A VIDA FINANCEIRA!",
+					"url": "https://www.youtube.com/watch?v=VCVfDJ4108U&list=PL5vSn8ej1b0sPVTbIZiz7JX09u7vPx1U7&index=2&t=0s"
+				},
+				{
+					"titulo": "DETOX FINANCEIRO! Elimine gastos, dívidas e investimentos tóxicos em 4 dias!Por Nathalia Arcuri",
+					"url": "https://www.youtube.com/watch?v=nlyOqBSDKv0&list=PL5vSn8ej1b0sPVTbIZiz7JX09u7vPx1U7&index=2"
+				},
+				{
+					"titulo": "COMO LUCRAR MAIS COM O CANAL DO YOUTUBE! Feat DR RELACIONAMENTOS",
+					"url": "https://www.youtube.com/watch?v=yqablJBu2A0&list=PL5vSn8ej1b0sPVTbIZiz7JX09u7vPx1U7&index=3"
+				},
+				{
+					"titulo": "CONSEGUIMOS O HOMEM! Entrevista exclusiva com o PRESIDENTE DO BANCO CENTRAL Ilan Goldfajn",
+					"url": "https://www.youtube.com/watch?v=LI4ZUxDNvk0&list=PL5vSn8ej1b0sPVTbIZiz7JX09u7vPx1U7&index=4"
+				},
+				{
+					"titulo": "UM MILHÃO DE REAIS OU UM MILHÃO DE INSCRITOS: O que vale mais?",
+					"url": "https://www.youtube.com/watch?v=2YzlNbtqvF4&list=PL5vSn8ej1b0sPVTbIZiz7JX09u7vPx1U7&index=5"
+				}
+			]
+		},
+		{
+			"titulo": "NATH, ME AJUDA!",
+			"cor": "#ed116c",
+			"link_extra": {
+				"text": "",
+				"url": ""
+			},
+			"videos": [
+				{
+					"titulo": "AS PIORES DÚVIDAS DA QUARENTENA! A última é a pior de todas! #QuarenteneComAMePoupe",
+					"url": "https://www.youtube.com/watch?v=G8xtQRAsMVo&list=PL5vSn8ej1b0v3uWfvH4ksqooiMfqH6d_F&index=4"
+				},
+				{
+					"titulo": "COMO ELIMINAR GASTOS DESNECESSÁRIOS? (Nath Me Ajuda #49 Especial Gastos Extremos!)",
+					"url": "https://www.youtube.com/watch?v=WvNcL-HpQik&list=PL5vSn8ej1b0v3uWfvH4ksqooiMfqH6d_F&index=5"
+				},
+				{
+					"titulo": "AS SUAS DÚVIDAS SOBRE AÇÕES RESPONDIDAS AQUI! NathMeAjuda #48 Especial RENDA VARIÁVEL",
+					"url": "https://www.youtube.com/watch?v=_Erqy3QH7NQ&list=PL5vSn8ej1b0v3uWfvH4ksqooiMfqH6d_F&index=6"
+				},
+				{
+					"titulo": "AS DÚVIDAS MAIS CABELUDAS SOBRE DINHEIRO DE 2019! E quem conseguiu resolver! Nath Me Ajuda #47",
+					"url": "https://www.youtube.com/watch?v=6AQd1GMDIX4&list=PL5vSn8ej1b0v3uWfvH4ksqooiMfqH6d_F&index=7"
+				}
+			]
+		},
+		{
+			"titulo": "Filmes",
+			"cor": "orange",
+			"videos": [
+				{
+					"titulo": "Interestellar",
+					"url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+				},
+				{
+					"titulo": "Gattaca",
+					"url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+				},
+				{
+					"titulo": "A Chegada",
+					"url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+				},
+				{
+					"titulo": "Feitiço do Tempo",
+					"url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+				}
+			]
+		},
+		{
+			"titulo": "Games",
+			"cor": "red",
+			"link_extra": {
+				"text": "Formação de Jogos na Alura",
+				"url": "https://www.alura.com.br/formacao-jogos-unity"
+			},
+			"videos": [
+				{
+					"titulo": "Final Fantasy 7",
+					"url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+				},
+				{
+					"titulo": "Assassins Creed Valhalla",
+					"url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+				},
+				{
+					"titulo": "God of War 4",
+					"url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+				},
+				{
+					"titulo": "Resident Evil 8",
+					"url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+				},
+				{
+					"titulo": "Pokémon Let's Go Pikachu/Eevee",
+					"url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+				}
+			]
+		},
+		{
+			"titulo": "Aprendendo a aprender tecnologia",
+			"cor": "#6b5be2",
+			"link_extra": {
+				"text": "Curso sobre aprendizado na Alura",
+				"url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+			},
+			"videos": [
+				{
+					"titulo": "Como estudar melhor?",
+					"url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+				},
+				{
+					"titulo": "Faculdade",
+					"url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+				},
+				{
+					"titulo": "Frameworks",
+					"url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+				},
+				{
+					"titulo": "A mágica do Aprendizado",
+					"url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+				},
+				{
+					"titulo": "Como aprender a programar?",
+					"url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+				}
+			]
+		}
+	]
+}
